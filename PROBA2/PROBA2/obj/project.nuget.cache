@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3T995Hj4KdeNHUENFV13TsFGrtlBCz0xcnj86LBUIOnvGqRhkBFK41eUvL/n3ZPMf9/LrOJt4OZ5EJYDNW1Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamaz\\source\\repos\\PROBA2\\PROBA2\\PROBA2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamaz\\.nuget\\packages\\mathparser.org-mxparser\\4.4.2\\mathparser.org-mxparser.4.4.2.nupkg.sha512",
+    "C:\\Users\\kamaz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
